@@ -1,5 +1,7 @@
 
-# Simple email sender
+# :mailbox_with_mail: Simple Java email sender
+
+This is a project built with Java and Spring. It provides a simple example of how to send an email from Java.
 
 You need:
 
