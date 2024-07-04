@@ -1,4 +1,10 @@
 
+Simple email sender
+
+You need:
+  JDK 21+
+  PostgresSQL
+
 How to send an email:
 ![image](https://github.com/JCiscoHuerta/spring-email-sender/assets/151865620/cfd3c5d4-47c6-4098-83e7-3e7752ccb17d)
 
